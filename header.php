@@ -3,23 +3,22 @@
 
     <title>Header</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
-    integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link type="text/css" rel="stylesheet" href="inc/css/header.css"/>
-    <link type="text/css" rel="stylesheet" href="inc/css/slideme.css"/>
+
 
     <script type="text/javascript" src="inc/js/jquery-2.1.4.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
     integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="inc/js/jquery.slideme2.js"></script>
-    <script type="text/javascript" src="inc/js/scroll.js"></script>
 
-    <script type="text/javascript" src="inc/js/default.js"></script>
 
+    <link type="text/css" rel="stylesheet" href="inc/css/header.css"/>
   </head>
   <body>
 
-    <nav class="navbar navbar-default" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
   <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">

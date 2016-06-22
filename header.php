@@ -20,7 +20,6 @@
 
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
-  <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
 
     <!-- Navbar dropdown button for mobile screens.-->
@@ -30,10 +29,12 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="#" class="navbar-brand">
+        
+        <a href="#" class=" hidden-xs navbar-brand">
           <img alt="BiKE" src="images/logo.png" class="img-responsive">
         </a>
-        <p href="#" class="hidden-sm hidden-md hidden-lg">BiKE</p>
+
+        <img alt="BiKE" src="images/logo.png" class="visible-xs navbar-brand img-responsive">
 
       </div>
 

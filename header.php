@@ -54,7 +54,7 @@
     <div class="container-fluid">
       <div id="sliderwrapper">
         <ul class="slideme">
-          <li><img width="100%" src="images/bikeimg1.jpg"/></li>
+          <li><img width="100%" bottom="0" src="images/bikeimg1.jpg"/></li>
           <li><img width="100%" src="images/bikeimg2.jpg"/></li>
           <li><img width="100%" src="images/bikeimg3.jpg"/></li>
           <li><img width="100%" src="images/bikeimg4.jpg"/></li>
